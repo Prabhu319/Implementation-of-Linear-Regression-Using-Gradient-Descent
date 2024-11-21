@@ -48,7 +48,7 @@ data.head()
 ```
 
 ## Output:
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-21 090643.png"
+![Screenshot 2024-11-21 090643](https://github.com/user-attachments/assets/bc61761b-3a29-4a37-a511-42cd3cad9ef2)
 
 
 ## Result:
